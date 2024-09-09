@@ -1,4 +1,4 @@
-module github.com/Jigsaw-Code/outline-ss-server
+module github.com/iPajaz/outline-ss-server
 
 require (
 	github.com/Jigsaw-Code/outline-sdk v0.0.14

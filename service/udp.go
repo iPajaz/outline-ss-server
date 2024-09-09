@@ -25,7 +25,7 @@ import (
 	"time"
 
 	"github.com/Jigsaw-Code/outline-sdk/transport/shadowsocks"
-	onet "github.com/Jigsaw-Code/outline-ss-server/net"
+	onet "github.com/iPajaz/outline-ss-server/net"
 	"github.com/shadowsocks/go-shadowsocks2/socks"
 )
 

@@ -30,8 +30,8 @@ import (
 
 	"github.com/Jigsaw-Code/outline-sdk/transport"
 	"github.com/Jigsaw-Code/outline-sdk/transport/shadowsocks"
-	onet "github.com/Jigsaw-Code/outline-ss-server/net"
-	"github.com/Jigsaw-Code/outline-ss-server/service/metrics"
+	onet "github.com/iPajaz/outline-ss-server/net"
+	"github.com/iPajaz/outline-ss-server/service/metrics"
 	"github.com/shadowsocks/go-shadowsocks2/socks"
 )
 
