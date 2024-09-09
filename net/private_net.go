@@ -26,7 +26,7 @@ func init() {
 		// RFC 1918: private IPv4 networks
 		"10.0.0.0/8",
 		"172.16.0.0/12",
-		"192.168.0.0/16",
+		"192.168.0.0/24",
 		// RFC 4193: IPv6 ULAs
 		"fc00::/7",
 		// RFC 6598: reserved prefix for CGNAT
